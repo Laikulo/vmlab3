@@ -1,0 +1,10 @@
+SYSTEMS:
+netsvcs - Network services: DHCP,DNS,Proxy,Repos
+
+USERS:
+root/xyzzy42!
+labmin/xyzzy42!
+
+HOST	MAC					IP
+netsvcs	2:13:37:00:00:01	172.27.42.1
+pxetest 2:13:37:ff:ff:ff	(DYN)
